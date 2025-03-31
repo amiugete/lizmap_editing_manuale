@@ -21,6 +21,7 @@ Per qggiungere un'area bisogna cliccare sul tasto **Aggiungi** evidenziato in gi
 .. image:: img/tool.png
     :align: center
 
+|
 
 Cliccare sulla mappa con il tasto sinistro del mouse per disegnare l'area, ad ogni click del mouse verrà aggiunto un vertice. Con il doppio click del mouse verrà terminato il disegno.
 Una volta terminato il disegno l'area diventa blu con i vertici indicati da un cerchio arancione (si veda immagine sotto).  E' ovviamente possibile modificare l'area appena disegnata cliccando con il tasto sinistro del mouse su un vertice (o su un punto medio del segmento) e tenedno premuto trascinare il vertice nella posizione desiderata.
@@ -42,6 +43,8 @@ Se invece l'area non è ancora definitiva, è possibile salvare l'area senza inv
 
 .. image:: img/info.png
     :align: center
+
+|
 
 SALVATAGGIO
 ------------------------------------------
