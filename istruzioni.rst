@@ -27,7 +27,7 @@ Una volta terminato il disegno l'area diventa blu con i vertici indicati da un c
 
 .. note:: NON è possibile cancellare un'area!!
 
-.. image:: img/tend_area.png
+.. image:: img/end_area.png
     :align: center
 ..
     this is a subsection
@@ -40,7 +40,7 @@ COMPILA INFORMAZIONI
 Se l'area disegnata e il nome inserito sono definitivi, è possible cliccare sulla casella **Invia richiesta ad ASS Territorio**. In questo modo, una volta salvata l'area, verrà inviata una mail con la richiesta.
 Se invece l'area non è ancora definitiva, è possibile salvare l'area senza inviare la richiesta e modificarla successivamente.
 
-.. image:: img/tend_area.png
+.. image:: img/info.png
     :align: center
 
 SALVATAGGIO
