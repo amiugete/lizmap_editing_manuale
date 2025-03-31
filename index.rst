@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-IL TITOLO
+DISEGNA AREA PER RICHIESTA UTENZE ECOPUNTI
 =====================================================================
 Contenuti:
 
@@ -12,10 +12,7 @@ Contenuti:
 
 .. toctree::
 
-  intro
-  arg_1
-  arg_2
-  arg_n
+  istruzioni
   
 
 
