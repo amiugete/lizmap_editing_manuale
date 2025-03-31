@@ -20,10 +20,10 @@ import datetime
 
 # -- Project information -----------------------------------------------------
 
-project = u'Manuale - TITOLO' ######## DA MODIFICARE ########
+project = u'Manuale - Disegna Area Ecopunti' ######## DA MODIFICARE ########
 now = datetime.datetime.now()
-copyright = u'{}, Gter srl'.format(now.year)
-author = u'Gter srl'
+copyright = u'{}, Amiu SPA'.format(now.year)
+author = u'Amiu Spa'
 
 # The short X.Y version
 version = u''
@@ -95,7 +95,7 @@ html_theme = "sphinx_rtd_theme"
 
 html_title = ""
 
-html_logo = 'img/logo.png'
+html_logo = 'img/logo_amiu.jpg'
 
 
 
@@ -168,7 +168,7 @@ html_show_copyright = True
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'manuale_titolo_no_spazi' ######## DA MODIFICARE########
+htmlhelp_basename = 'manuale_disegna_area_ecopunti' ######## DA MODIFICARE########
 
 
 from sphinx.builders.html import StandaloneHTMLBuilder
@@ -215,7 +215,7 @@ StandaloneHTMLBuilder.supported_image_types = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'manuale_titolo_no_spazi', u'Manuale - TITOLO', ######## DA MODIFICARE########
+    (master_doc, 'manuale_disegna_area_ecopunti', u'Manuale - Disegna Area Ecopunti', ######## DA MODIFICARE########
      [author], 1)
 ]
 
@@ -226,8 +226,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'manuale_titolo_no_spazi', u'Manuale - TITOLO', ######## DA MODIFICARE########
-     author, 'manuale_titolo_no_spazi', 'One line description of project.', ######## DA MODIFICARE########
+    (master_doc, 'manuale_disegna_area_ecopunti', u'Manuale - Disegna Area Ecopunti', ######## DA MODIFICARE########
+     author, 'manuale_disegna_area_ecopunti', 'One line description of project.', ######## DA MODIFICARE########
      'Miscellaneous'),
 ]
 
