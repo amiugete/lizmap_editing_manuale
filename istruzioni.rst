@@ -7,7 +7,7 @@ Istruzioni
 Questa mappa web consente di inviare in modo automatico ad Assistenza Territorio una richiesta di estrazione di utenze in caso di installazione di un nuovo ecopunto.
 Per inoltrare la richiesta è necessario seguire le istruzioni che seguono.
 
-.. note:: Per utilizzare questo strumento è necessario fare il login con le proprie credenziali
+.. note:: Per utilizzare questo strumento è necessario fare il login con le credenziali del computer (esempio --> user: Marzocchi password:*inserire la propria password*)
 
 ..
     this is a section
@@ -26,7 +26,7 @@ Per qggiungere un'area bisogna cliccare sul tasto **Aggiungi** evidenziato in gi
 Cliccare sulla mappa con il tasto sinistro del mouse per disegnare l'area, ad ogni click del mouse verrà aggiunto un vertice. Con il doppio click del mouse verrà terminato il disegno.
 Una volta terminato il disegno l'area diventa blu con i vertici indicati da un cerchio arancione (si veda immagine sotto).  E' ovviamente possibile modificare l'area appena disegnata cliccando con il tasto sinistro del mouse su un vertice (o su un punto medio del segmento) e tenedno premuto trascinare il vertice nella posizione desiderata.
 
-.. note:: NON è possibile cancellare un'area!!
+.. warning:: NON è possibile cancellare un'area! Qualora fosse necessario, contattare Assistenza Territorio.
 
 .. image:: img/end_area.png
     :align: center
