@@ -30,9 +30,9 @@ Una volta terminato il disegno l'area diventa blu con i vertici indicati da un c
 
 .. image:: img/end_area.png
     :align: center
-..
-    this is a subsection
-    
+
+|
+
 COMPILA INFORMAZIONI
 ------------------------------------------
 
@@ -54,6 +54,8 @@ SALVATAGGIO
 .. image:: img/salva.png
     :align: center
 
+|
+
 .. note:: Si ricorda che se è stata spuntata la casella **Invia richiesta ad ASS Territorio**, la richiesta verrà automaticamente inviata.
 
 .. warning:: Una volta inviata la richiesta non è possibile annullarla, in questo caso contattare Assistenza Territorio.
@@ -67,6 +69,7 @@ In questo modo è possibile modificare sia il disegno che le informazioni come i
 .. image:: img/modifica.png
     :align: center
 
+|
 
 BREVE VIDEO ESPLICATIVO
 ------------------------------------------
