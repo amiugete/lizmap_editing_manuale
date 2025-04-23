@@ -11,7 +11,11 @@ Step per la creazione di un manuale readthedocs
 * modificare i file .rst che costituiscono le varie pagine del manuale (esempi di sintassi sono disponibili nel file intro.rst)
 * accedere a readthedocs https://readthedocs.org/
 * andare in *I miei progetti*
-* tasto *Importa un progetto* e selezionare la repository github creata ad hoc per il manuale
+* tasto *Importa un progetto* e selezionare la repository github creata ad hoc per il manuale oppure fare il collegamento manuale inserendo:
+ * nome del repository
+ * url github del repository
+ * branch predefinita  = main (importante definirlo altrimenti va a cercare master e dà errore)
+ * lingua
 * definire eventuali impostazioni (Amministrazione)
   * in partcolare da *impostazioni - Compilazioni in corso - integrazioni* creare un Webhook per GitHub
 * tornare sulla repository Github e da *Settings - Webhook* aggiungere un webhook (https://docs.readthedocs.com/platform/stable/guides/setup/git-repo-manual.html#manual-integration-setup):
