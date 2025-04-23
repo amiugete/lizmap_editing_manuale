@@ -13,6 +13,15 @@ Step per la creazione di un manuale readthedocs
 * andare in *I miei progetti*
 * tasto *Importa un progetto* e selezionare la repository github creata ad hoc per il manuale
 * definire eventuali impostazioni (Amministrazione)
+  * in partcolare da *impostazioni - Compilazioni in corso - integrazioni* creare un Webhook per GitHub
+* tornare sulla repository Github e da *Settings - Webhook* aggiungere un webhook con:
+  * Payload URL = Webhook URL di RTD
+  * Secret = Secret di RTD
+  * Spuntare *Let me select individual events* e selezionare:
+    * Branch or tag creation
+    * Branch or tag deletion
+    * Pull Request
+    * Pushes
 * compilare la versione
 
 Ogni volta che viene modificato qualche file sulla repository github del manuale, readthedocs lancia in automatico la compilazione del manuale. 
