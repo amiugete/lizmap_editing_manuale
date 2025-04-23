@@ -1,5 +1,5 @@
 # template_RTD
-Template 'pulito' da utilizzare per i manuali ReadTheDocs di Gter
+Template 'pulito' da utilizzare per i manuali ReadTheDocs
 
 Step per la creazione di un manuale readthedocs
 -----------------------------------------------
